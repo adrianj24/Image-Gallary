@@ -1,0 +1,13 @@
+img {
+	width: 30%;
+	float: left;
+	margin: 1.66%;
+}
+
+h1 {
+	font-family: Rubik;
+	margin: 1.66%;
+	border-bottom: 2px solid #D3D3D3;
+	width: 30%;
+	padding-bottom: 20px;
+}
